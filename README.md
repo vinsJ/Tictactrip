@@ -4,7 +4,7 @@
 
  ## Some things about me 
 
- Well, first of all you might want to know who I am right ? (Even if you don't, this is some lines about myself, so... Sit back and relax :popcorn:)
+ Well, first of all you might want to know who I am right ? (Even if you don't, here are some lines about myself, so... Sit back and relax :popcorn:)
 
  My name is Vincent, I'm 22 years old and I'm studying Engineering at ESILV (located in La Défense). Currently in M1, I'm specialised in **Data Science and Artificial Intelligence** !
 
