@@ -1,6 +1,6 @@
 # Tictactrip - By Vincent DEBANDE
  
- Hey, this is my technical test for the internship aplication at Tictactrip ! :bullettrain_side: :car: :bus:
+ Hey, this is my technical test for the internship application at Tictactrip ! :bullettrain_side: :car: :bus:
 
  ## Some things about me 
 
