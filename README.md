@@ -25,5 +25,11 @@
 
  Enough about me, let's dive into the test ! :tada:
 
+ ## Notebook
+
+ In the notebook, you'll find the asked tasks and a general data analysis based on graphs. 
+
+ I'll also implement some Machine Learning to predict prices !
+
 
 
