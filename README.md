@@ -28,8 +28,15 @@
  ## Notebook
 
  In the notebook, you'll find the asked tasks and a general data analysis based on graphs. 
+ 
+ The last part is about Machine Learning : some more data analysis on the dates, data preparation, train and fit for different models and model selection !
 
- I'll also implement some Machine Learning to predict prices !
+ Do not hesitate to give me feedbakcs !
+
+ Thank you for your time and for this opportunity. 
+ I really enjoyed working on this project ! :fire:
+
+ :bullettrain_side: :car: :bus:
 
 
 
